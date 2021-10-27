@@ -7,6 +7,10 @@
 
 <br>
 
+### If you are downloading the app -> Viewer discretion advised since the memes are randomly scraped from Reddit
+
+<br>
+
 **New Things experimented with and learnt** -
 1. The app uses [view binding](https://developer.android.com/topic/libraries/view-binding) instead of `findViewById`.
 2. Since the `kotlin-android-extensions` Gradle extension has been [depreciated](https://stackoverflow.com/questions/65179275/the-kotlin-android-extensions-gradle-plugin-is-deprecated), I learnt about using view binding. Read about this on Google's blog [post](https://android-developers.googleblog.com/2020/11/the-future-of-kotlin-android-extensions.html).
