@@ -11,7 +11,7 @@
 1. The app uses [view binding](https://developer.android.com/topic/libraries/view-binding) instead of `findViewById`.
 2. Since the `kotlin-android-extensions` Gradle extension has been [depreciated](https://stackoverflow.com/questions/65179275/the-kotlin-android-extensions-gradle-plugin-is-deprecated), I learnt about using view binding. Read about this on Google's blog [post](https://android-developers.googleblog.com/2020/11/the-future-of-kotlin-android-extensions.html).
 3. Learnt about various XML tags to simplify symmetric design and make the app look lovely.
-4. Implementing [Glide](https://github.com/bumptech/glide) and [Volley](https://developer.android.com/training/volley) libraries in an Andriod app.
+4. Implementing [Glide](https://github.com/bumptech/glide) and [Volley](https://developer.android.com/training/volley) libraries in an Android app.
 
 <br>
 
